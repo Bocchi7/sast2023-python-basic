@@ -83,4 +83,4 @@ streamlit run GUI_main.py
 
 ## 其他
 
-- 
+- 各json文件中只有`sample.json`是对的，其他都是格式错误的。
